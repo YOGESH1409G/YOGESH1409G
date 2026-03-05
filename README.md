@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=yogesh1409g&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh1409g" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yogesh1409g&theme=onedark&no-frame=true&row=1" alt="yogesh1409g" />
-  </a>
-</p>
-
 - 🌱 I'm currently learning **NODE.JS**
 - 📫 How to reach me: **yogeshg1409@gmail.com**
 
@@ -72,14 +66,14 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh1409g&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yogesh1409g" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh1409g&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh1409g&show_icons=true&locale=en&theme=tokyonight" alt="yogesh1409g" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh1409g&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh1409g&theme=tokyonight" alt="yogesh1409g" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh1409g&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
