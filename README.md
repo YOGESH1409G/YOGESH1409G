@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=yogesh1409g&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh1409g" />
 </p>
 
-- 🌱 I'm currently learning **NODE.JS**
 - 📫 How to reach me: **yogeshg1409@gmail.com**
 
 ---
